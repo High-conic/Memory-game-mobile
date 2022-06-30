@@ -1,4 +1,4 @@
-![Design preview for the Memory Game site](./design/Memory%20Game%20start.png) 
+![Design preview for the Memory Game site](./design/Memory%20Game%20%20Mobile%20start-%20127.0.0.1.png) 
 
 -Memory Game-Website
 
@@ -26,8 +26,8 @@ A website created to play a game that tests your memory.
 
 ### Screenshot
 
-![A start view of the Memory Game site](./design/Memory%20Game%20start.png)
-![A game over view of the Memory Game site](./design/Memory%20Game%20gameover.png)
+![A start view of the Memory Game site](./design/Memory%20Game%20%20Mobile%20start-%20127.0.0.1.png.png)
+![A game over view of the Memory Game site](./design/Memory%20Game%20Mobile%20gameover%20.png.png)
 
 ## My process
 
