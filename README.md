@@ -26,8 +26,8 @@ A website created to play a game that tests your memory.
 
 ### Screenshot
 
-![A start view of the Memory Game site](./design/Memory%20Game%20%20Mobile%20start-%20127.0.0.1.png.png)
-![A game over view of the Memory Game site](./design/Memory%20Game%20Mobile%20gameover%20.png.png)
+![A start view of the Memory Game site](./design/Memory%20Game%20%20Mobile%20start-%20127.0.0.1.png)
+![A game over view of the Memory Game site](./design/Memory%20Game%20Mobile%20gameover%20.png)
 
 ## My process
 
